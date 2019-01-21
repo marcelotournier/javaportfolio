@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Part2
+comment0.text=\n\ This\ class\ changed\ functions\ findSimpleGene\ to\ evaluate\ gene\ on\ string\ length,\n\ and\ created\ two\ functions\ to\ return\ startCodon\ and\ stopCodon\ values\ as\ int.\n
+comment1.params=dna\ startCodon\ stopCodon
+comment1.target=java.lang.String\ findSimpleGene(java.lang.String,\ int,\ int)
+comment2.params=dna
+comment2.target=int\ findStartCodon(java.lang.String)
+comment3.params=dna
+comment3.target=int\ findStopCodon(java.lang.String)
+comment4.params=
+comment4.target=void\ testSimpleGene()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
