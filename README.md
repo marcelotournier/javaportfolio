@@ -1,4 +1,4 @@
-# Class javaportfolio = Class() :coffee:
+# Class javaportfolio = Class(); :coffee:
 
 My portfolio with some projects that I did while learning Java essentials:
 
