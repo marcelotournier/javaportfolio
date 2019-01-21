@@ -1,6 +1,6 @@
 # Class javaportfolio = Class(); :coffee:
 
-My portfolio with some projects that I did while learning Java essentials:
+My portfolio with some projects that I did while learning Java to help me on Big Data Analysis:
 
 1. [DNAStrandAnalysis](https://github.com/marcelotournier/javaportfolio/tree/master/DNAStrandAnalysis) - Classes developed to study and understand DNA gene recognition;
 
