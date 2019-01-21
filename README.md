@@ -1,4 +1,4 @@
-# Class javaportfolio = Class(); :coffee:
+# Class1 javaPortfolio = Class1(); :coffee:
 
 My portfolio with some projects that I did while learning Java to help me on Big Data Analysis:
 
